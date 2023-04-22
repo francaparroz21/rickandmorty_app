@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">rickandmorty</string>
+    <string name="title">Rick &amp; Morty Characters</string>
+    <string name="item_id">ID: %1$s</string>
+    <string name="item_name">NAME: %1$s</string>
+    <string name="item_status">STATUS: %1$s</string>
+    <string name="image_content_description">Content description</string>
 </resources>
